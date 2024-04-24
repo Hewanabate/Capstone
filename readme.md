@@ -5,26 +5,26 @@ Jewelry Store**
 The idea of this project is to make a jewelry e-commerce store. 
 
 **App Features**
-•	CRUD functionality
-•	Users can view and choose jewelry on different web pages by type.
-•	Select and order form anywhere.
+    •	CRUD functionality
+    •	Users can view and choose jewelry on different web pages by type.
+    •	Select and order form anywhere.
 
 **Technology**
 
 **Front End**
-•	React
-  o	Router
-  o	Hooks
-•	Java Script
-•	CSS
-•	HTML
+    •	React
+        o	Router
+        o	Hooks
+    •	Java Script
+    •	CSS
+    •	HTML
 
 **Back End**
-•	Express
-•	Node js
-•	MongoDB
-•	Mongoose
-•	Axios
+    •	Express
+    •	Node js
+    •	MongoDB
+    •	Mongoose
+    •	Axios
 
 **Wire Frame**
 
