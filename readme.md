@@ -30,21 +30,25 @@ The idea of this project is to make a jewelry e-commerce store.
 
 ![image](https://github.com/Hewanabate/Capstone/assets/111618015/f0d98191-44cd-488a-8020-7d3228689119)
 ![image](https://github.com/Hewanabate/Capstone/assets/111618015/ad25a67d-325d-441e-b15e-475c6f8489f5)
-![image](https://github.com/Hewanabate/Capstone/assets/111618015/b586c366-a0f1-4d32-a098-be0171d0f813)
-![image](https://github.com/Hewanabate/Capstone/assets/111618015/345d27f7-1bc9-49ae-b01e-a827c0fecdb3)
+![image](https://github.com/Hewanabate/Capstone/assets/111618015/366d496b-f993-4bad-88bb-4f22d3a0a97a)
+![image](https://github.com/Hewanabate/Capstone/assets/111618015/5879f29b-f806-441a-9b10-b26d94103a92)
 
 **Mock UP**
 
-![image](https://github.com/Hewanabate/Capstone/assets/111618015/f5b08a62-913b-42be-a361-eb6fa7cb3765)
-![image](https://github.com/Hewanabate/Capstone/assets/111618015/7354e43f-65ba-4a28-8b8a-56017addf65f)
-![image](https://github.com/Hewanabate/Capstone/assets/111618015/e6bdb588-861b-4687-8d0b-41b911cb7207)
-![image](https://github.com/Hewanabate/Capstone/assets/111618015/ee434bd0-a159-42b8-8008-d99481b6efb1)
-![image](https://github.com/Hewanabate/Capstone/assets/111618015/2c00e0ae-5189-4a7d-9062-7191ca13e61a)
-![image](https://github.com/Hewanabate/Capstone/assets/111618015/5143d5ee-e198-43ca-93fd-5a92b8c00706)
-![image](https://github.com/Hewanabate/Capstone/assets/111618015/42f2cfc3-bd34-49b3-ab24-22e6cab72aa2)
-![image](https://github.com/Hewanabate/Capstone/assets/111618015/6705aa16-7f59-4fd0-882b-4803693c211f)
-![image](https://github.com/Hewanabate/Capstone/assets/111618015/b1ae0dcb-1caa-4521-8c37-ad0885ebaa22)
-![image](https://github.com/Hewanabate/Capstone/assets/111618015/27ee1151-c61b-447d-8213-049c2a6d449b)
+![image](https://github.com/Hewanabate/Capstone/assets/111618015/292e9b06-05c4-4130-bebf-3716b5a8a1c0)
+![image](https://github.com/Hewanabate/Capstone/assets/111618015/dea444f7-b610-40dc-9825-8f7d9148972e)
+![image](https://github.com/Hewanabate/Capstone/assets/111618015/f2bf24bf-a3f7-4885-8d7c-03911bd27600)
+![image](https://github.com/Hewanabate/Capstone/assets/111618015/8b7ea5b7-b0c6-4cdc-8825-89951b756271)
+![image](https://github.com/Hewanabate/Capstone/assets/111618015/0bbfab77-0397-4fb8-8ffd-6c21899d1fc5)
+![image](https://github.com/Hewanabate/Capstone/assets/111618015/e395a821-e489-468d-9509-65e724bced59)
+![image](https://github.com/Hewanabate/Capstone/assets/111618015/222b0112-83a5-4595-be78-27f7604b60f0)
+![image](https://github.com/Hewanabate/Capstone/assets/111618015/a5ca486c-ed44-4a68-b5d2-0e522ea199fc)
+![image](https://github.com/Hewanabate/Capstone/assets/111618015/68e9c410-4d9f-4960-a382-f171ffe83bd6)
+![image](https://github.com/Hewanabate/Capstone/assets/111618015/d5d50d8f-7a2a-463d-b5a5-9fc791377ba3)
+
+
+
+
 
 
 
