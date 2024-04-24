@@ -1,0 +1,26 @@
+.EarringCard{
+    display:flex;
+    justify-content: space-around;
+    margin-top: 20px;  
+    text-align: center;
+    cursor: pointer;
+    
+}
+img.small{
+    max-width: 15rem;
+}
+img.small{
+    max-height: 15rem;
+}
+.butt{
+    Padding:0.2rem;
+    margin:0.1rem;
+    width:100%;
+    cursor: pointer;
+}
+.butt:hover{
+    color: aliceblue;
+    
+ }
+ 
+

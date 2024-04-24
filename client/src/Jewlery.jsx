@@ -1,0 +1,118 @@
+
+ const JEWLERYS = [ 
+    {
+        id:'1',
+        type:'bracelet',
+        price:520.0,
+        discription:'Crystal Bracelet Chic Gold Silver',
+        image:'collection/bra1.jpg',
+    },
+    {
+        id:'2',
+        type:'bracelet',
+        price:180.0,
+        discription:'Natural Stone Bead Bracelet',
+        image:'collection/bra2.jpg',
+        },
+    {
+        id:'3',
+        type:'bracelet',
+        price:2500.0,
+        discription:'Woven Mesh Magnetic Bracelete',
+        image:'collection/bra3.jpg',
+    },
+    {
+        id:'4',
+        type:'bracelet',
+        price:5500.0,
+        discription:'Gold & Diamond Bracelete',
+        image:'collection/bra4.jpg',
+     },
+    {
+       id:'5',
+        type:'earring',
+        price:2000.0,
+        discription:'Small Gold Plated Earring Cubic',
+        image:'collection/ear1.jpg',
+    },
+    {
+        id:'6',
+        type:'earring',
+        price:1500.0,
+        discription:'Small Gold Plated Earring Cubic',
+        image:'collection/ear2.jpg',
+    },
+    {
+        id:7,
+        type:'earring',
+        price:3500.0,
+        discription:'Gold and Diamond Halo Earring',
+        image:'collection/ear3.jpg',
+    },
+    {
+        id:'8',
+        type:'earring',
+        price:190.0,
+        discription:'Steling Silver Purple Crustal Hoop Earring',
+        image:'collection/ear4.jpg',
+    },
+    {
+        id:9,
+        type:'necklace',
+        price:2500.0,
+        discription:'High End Diamond Necklaces',
+        image:'collection/neck1.jpg',
+    },
+    {
+        id:'10',
+        type:'necklace',
+        price:3000.0,
+        discription:'Real Pear necklace',
+        image:'collection/neck2.jpg',
+    },
+    {
+        id:'11',
+        type:'necklace',
+        price:2900.0,
+        discription:'4.9 ct | Pravins Diamond Necklace',
+        image:'collection/neck3.jpg',
+    },
+    {
+        id:'12',
+        type:'necklace',
+        price:180.0,
+        discription:'Silver Pendant Necklace',
+        image:'collection/neck4.jpg',
+    },
+    {
+        id:'13',
+        type:'ring',
+        price:2200.0,
+        discription:'Gold Ring wiht Red Diamond',
+        image:'collection/ring1.jpg',
+    },
+    {
+        id:'14',
+        type:'ring',
+        price:1500.0,
+        discription:'Gold Ring with Diamond',
+        image:'collection/ring2.jpg',
+    },
+    {
+        id:'15',
+        type:'ring',
+        price:2200.0,
+        discription:'Silver and Gold Engagement Couple Ring',
+        image:'collection/ring3.jpg',
+    },
+    {
+        id:'16',
+        type:'ring',
+        price:2170.0,
+        discription:'Gold Wedding and Engagement Ring',
+        image:'collection/ring4.jpg',
+    },
+    
+]
+
+export default JEWLERYS;

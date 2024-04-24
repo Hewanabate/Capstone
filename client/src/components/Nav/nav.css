@@ -1,0 +1,40 @@
+.Nav ul{
+    display:flex;
+    justify-content: space-evenly;
+    margin-top: 10px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif  
+}
+
+.Nav ul li {
+    list-style: none;
+}
+
+.Nav ul li a {
+    text-decoration: none;
+    cursor: pointer;
+    color: #2e2d2d;
+}
+.Nav ul li a:hover{
+    color:#5271ff;
+}
+
+.Nav ul li a:active{
+    background-color:rgb(196, 94, 128);
+}
+.pcart{
+   position: absolute;
+   top:60px;
+   left: 1253px;
+   color:#5271ff;
+   border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    
+
+    background: #fff;
+    border: 2px solid #666;
+    text-align: center;
+
+    font: 14px Arial, sans-serif;
+}
+
