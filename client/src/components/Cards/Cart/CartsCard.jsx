@@ -84,13 +84,8 @@ export default () => {
           discripition:item.discripition,
           price:item.price,
           qyt:item.qty
-        }
+        }     
       }) 
-              
-    }
-   
-    const handleUpdate = (e)=>{
-      const{value, qty}=e.target
     }
     //Update state
     setUpdateOrders({...updateOrders, qty: e.target.value})
